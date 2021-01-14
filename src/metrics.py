@@ -10,7 +10,7 @@ def edit_distance(token1: str, token2: str) -> int:
 
     len1 = len(token1) + 1
     len2 = len(token2) + 1
-    D = np_zeros((len1, len1))
+    D = np_zeros((len1, len2))
 
     for i in range(len1):
         D[i][0] = i

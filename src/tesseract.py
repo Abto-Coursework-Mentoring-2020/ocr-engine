@@ -6,12 +6,15 @@ import cv2 as cv
 
 
 class TESSERACT(OCRModel):
-    SAVED_MODEL_PATH = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+    _saved_model_path = None
+
+    def __init__(self, SAVED_MODEL_PATH):
+        self._saved_model_path = SAVED_MODEL_PATH
 
     def load(self):
         if not self._loaded:
             try:
-                tesseract.pytesseract.tesseract_cmd = self.SAVED_MODEL_PATH
+                tesseract.pytesseract.tesseract_cmd = self._saved_model_path
                 self._model = tesseract.image_to_string
             except Exception as ex:
                 raise UnableToLoadModel(ex)
