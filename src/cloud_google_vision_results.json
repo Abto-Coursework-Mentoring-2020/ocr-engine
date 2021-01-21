@@ -1,0 +1,53 @@
+{
+    "degraded_image0.png": {
+        "true text": "that is dying, besides\nthis horror at the\nextinction of life there\nis a severance, a\nspiritual wound, which\nlike a physical wound is\nsometimes fatal and",
+        "Cloud Google Vision text": "that is dying, besides this horror at the extinction of life there sa severance, a spiritual wound, which like a physical wound is sometimes fatal and",
+        "relative mistake": 0.05263157894736842
+    },
+    "degraded_image1.png": {
+        "true text": "sometimes heals, but\nalways aches and\nshrinks at any external\nirritating touch. After\nPrince Andrew's death\nNatasha and Princess\nMary alike felt this.",
+        "Cloud Google Vision text": "Valp",
+        "relative mistake": 0.9866666666666667
+    },
+    "degraded_image2.png": {
+        "true text": "Drooping in spirit and\nclosing their eyes\nbefore the menacing\ncloud of death that\noverhung them, they\ndared not look life in\nthe face. They carefully",
+        "Cloud Google Vision text": "Prooping in spirit and closing their eyes before the menacing cloud of death that pverhung them, they dared not look life in the face. They carefully",
+        "relative mistake": 0.053691275167785234
+    },
+    "degraded_image3.png": {
+        "true text": "guarded their open\nwounds from any rough\nand painful contact.\nEverything: a carriage\npassing rapidly in the\nstreet, a summons to\ndinner, the maid's",
+        "Cloud Google Vision text": "I vet, then 1: The 11",
+        "relative mistake": 0.9047619047619048
+    },
+    "degraded_image4.png": {
+        "true text": "inquiry what dress to\nprepare, or worse still any\nword of insincere or\nfeeble sympathy, seemed\nan insult, painfully\nirritated the wound,\ninterrupting that\nnecessary quiet in which",
+        "Cloud Google Vision text": "inquiry what dress to prepare, or worse stili any word of insincere or feeble sympathy, seemed an insult, painfully irritated the wound, interrupting that necessary quiet in which",
+        "relative mistake": 0.0446927374301676
+    },
+    "degraded_image5.png": {
+        "true text": "they both tried to\nlisten to the stern and\ndreadful choir that still\nresounded in their\nimagination, and\nhindered their gazing\ninto those mysterious",
+        "Cloud Google Vision text": "they both tried to listen to the stem and dreadful choir that still resounded in their imagination, and hindered their gazing into those mysterious",
+        "relative mistake": 0.05405405405405406
+    },
+    "degraded_image6.png": {
+        "true text": "limitless vistas that for an\ninstant had opened out\nbefore them. Only when\nalone together were they\nfree from such outrage\nand pain. They spoke\nlittle even to one another,\nand when they did it was",
+        "Cloud Google Vision text": "Omitless vistas that for an instant had opened out before them. Only when alone.together were they free from such outrage and pain. They.spoke: Title even to ode another.. and when they and it was",
+        "relative mistake": 0.09693877551020408
+    },
+    "degraded_image7.png": {
+        "true text": "of very unimportant\nmatters. Both avoided\nany allusion to the future.\nTo admit the possibility of\na future seemed to them\nto insult his memory. Still\nmore carefully did they\navoid anything relating to",
+        "Cloud Google Vision text": "of very unimportant matters. Both avoided any allusion to the future. To admit the possibility of a future seemed to them to  insult his memory. Still more carefully did they avoid anything relating to",
+        "relative mistake": 0.04
+    },
+    "degraded_image8.png": {
+        "true text": "him who was dead. It\nseemed to them that\nwhat they had lived\nthrough and\nexperienced could not\nbe expressed in\nwords, and that any",
+        "Cloud Google Vision text": "",
+        "relative mistake": 1.0
+    },
+    "degraded_image9.png": {
+        "true text": "reference to the\ndetails of his life\ninfringed the majesty\nand sacredness of\nthe mystery that had\nbeen accomplished\nbefore their eyes.",
+        "Cloud Google Vision text": "reference to the details of his life infringed the majesty and sacredness of the mystery that had been accomplished before their eyes.",
+        "relative mistake": 0.04477611940298507
+    },
+    "mean relative mistake": 0.3278213111941136
+}
